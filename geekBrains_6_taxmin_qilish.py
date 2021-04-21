@@ -1,3 +1,4 @@
+#raqamni taxmin qiling
 import random
 son = int(input())
 start = 1
